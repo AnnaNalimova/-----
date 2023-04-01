@@ -1,0 +1,15 @@
+/Users/annanalimova/Desktop/Итоги/2/obj/Debug/net6.0/2.csproj.AssemblyReference.cache
+/Users/annanalimova/Desktop/Итоги/2/obj/Debug/net6.0/2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annanalimova/Desktop/Итоги/2/obj/Debug/net6.0/2.AssemblyInfoInputs.cache
+/Users/annanalimova/Desktop/Итоги/2/obj/Debug/net6.0/2.AssemblyInfo.cs
+/Users/annanalimova/Desktop/Итоги/2/obj/Debug/net6.0/2.csproj.CoreCompileInputs.cache
+/Users/annanalimova/Desktop/Итоги/2/bin/Debug/net6.0/2
+/Users/annanalimova/Desktop/Итоги/2/bin/Debug/net6.0/2.deps.json
+/Users/annanalimova/Desktop/Итоги/2/bin/Debug/net6.0/2.runtimeconfig.json
+/Users/annanalimova/Desktop/Итоги/2/bin/Debug/net6.0/2.dll
+/Users/annanalimova/Desktop/Итоги/2/bin/Debug/net6.0/2.pdb
+/Users/annanalimova/Desktop/Итоги/2/obj/Debug/net6.0/2.dll
+/Users/annanalimova/Desktop/Итоги/2/obj/Debug/net6.0/refint/2.dll
+/Users/annanalimova/Desktop/Итоги/2/obj/Debug/net6.0/2.pdb
+/Users/annanalimova/Desktop/Итоги/2/obj/Debug/net6.0/2.genruntimeconfig.cache
+/Users/annanalimova/Desktop/Итоги/2/obj/Debug/net6.0/ref/2.dll
